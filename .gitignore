@@ -1,0 +1,9 @@
+#ignoring unwanted folder
+android/
+build/
+ios/
+linux/
+macos/
+test/
+web/
+windows/
